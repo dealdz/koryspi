@@ -285,21 +285,21 @@ blockquote {
 
 @font-face {
     font-family: Pinup-Medium;
-    src: url(../fonts/Pinup-Medium.eot) format("embedded-opentype"),url(../fonts/Pinup-Medium.woff) format("woff"),url(../fonts/Pinup-Medium.ttf) format("truetype");
+    src: url(../fonts/Pinup-Medium.eot) format("embedded-opentype"),url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/Pinup-Medium.woff) format("woff"),url(../fonts/Pinup-Medium.ttf) format("truetype");
     font-style: normal;
     font-weight: 500
 }
 
 @font-face {
     font-family: Pinup-Light;
-    src: url(../fonts/Pinup-Light.eot) format("embedded-opentype"),url(../fonts/Pinup-Light.woff) format("woff"),url(../fonts/Pinup-Light.ttf) format("truetype");
+    src: url(../fonts/Pinup-Light.eot) format("embedded-opentype"),url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/Pinup-Light.woff) format("woff"),url(../fonts/Pinup-Light.ttf) format("truetype");
     font-weight: 300;
     font-style: normal
 }
 
 @font-face {
     font-family: Pinup-Black;
-    src: url(../fonts/Pinup-Black.eot) format("embedded-opentype"),url(../fonts/Pinup-Black.woff) format("woff"),url(../fonts/Pinup-Black.ttf) format("truetype");
+    src: url(../fonts/Pinup-Black.eot) format("embedded-opentype"),url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/Pinup-Black.woff) format("woff"),url(../fonts/Pinup-Black.ttf) format("truetype");
     font-weight: 900;
     font-style: normal
 }
@@ -307,7 +307,7 @@ blockquote {
 @font-face {
     font-family: icomoon;
     src: url(../fonts/icomoon.eot);
-    src: url(../fonts/icomoon.eot) format("embedded-opentype"),url(../fonts/icomoon.ttf) format("truetype"),url(../fonts/icomoon.woff) format("woff");
+    src: url(../fonts/icomoon.eot) format("embedded-opentype"),url(../fonts/icomoon.ttf) format("truetype"),url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/icomoon.woff) format("woff");
     font-weight: 400;
     font-style: normal;
     font-display: block
@@ -446,13 +446,13 @@ body {
     font-family: Pinup-Black,sans-serif;
     font-size: 16px;
     color: #fff;
-    background: url(../img/background.jpg) 50%/cover no-repeat;
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/background.jpg) 50%/cover no-repeat;
     overflow-x: hidden
 }
 
 @media screen and (max-width: 479.9px) {
     body {
-        background:url(../img/bg-mobile.jpg) 50%/cover no-repeat
+        background:url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/bg-mobile.jpg) 50%/cover no-repeat
     }
 }
 
@@ -539,7 +539,7 @@ body[data-lang=english] .main__titles .title_second {
 }
 
 body[data-lang=english] .main__spinner-img {
-    background: url(../img/wheel-ca.png) 50%/contain no-repeat
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/wheel-ca.png) 50%/contain no-repeat
 }
 
 body[data-lang=english] .main__achievements-spin .lights-content__value {
@@ -641,7 +641,7 @@ body[data-lang=spanish] .main__titles .title_second {
 }
 
 body[data-lang=spanish] .main__spinner-img {
-    background: url(../img/wheel-sp.png) 50%/contain no-repeat
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/wheel-sp.png) 50%/contain no-repeat
 }
 
 body[data-lang=spanish] .main__achievements-spin .lights-content__value {
@@ -743,7 +743,7 @@ body[data-lang=chilean] .main__titles .title_second {
 }
 
 body[data-lang=chilean] .main__spinner-img {
-    background: url(../img/wheel-cl.png) 50%/contain no-repeat
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/wheel-cl.png) 50%/contain no-repeat
 }
 
 body[data-lang=chilean] .main__achievements-spin .lights-content__value {
@@ -845,7 +845,7 @@ body[data-lang=peru] .main__titles .title_second {
 }
 
 body[data-lang=peru] .main__spinner-img {
-    background: url(../img/wheel-pe.png) 50%/contain no-repeat
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/wheel-pe.png) 50%/contain no-repeat
 }
 
 body[data-lang=peru] .main__achievements-spin .lights-content__value {
@@ -947,7 +947,7 @@ body[data-lang=brazilian] .main__titles .title_second {
 }
 
 body[data-lang=brazilian] .main__spinner-img {
-    background: url(../img/wheel-br.png) 50%/contain no-repeat
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/wheel-br.png) 50%/contain no-repeat
 }
 
 body[data-lang=brazilian] .main__achievements-spin .lights-content__value {
@@ -1039,7 +1039,7 @@ body[data-lang=turkish] .main__titles .title_second {
 }
 
 body[data-lang=turkish] .main__spinner-img {
-    background: url(../img/wheel-tr.png) 50%/contain no-repeat
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/wheel-tr.png) 50%/contain no-repeat
 }
 
 body[data-lang=turkish] .main__achievements-spin .lights-content__value {
@@ -1115,7 +1115,7 @@ body[data-lang=azerbaijani] .main__titles .title_second {
 }
 
 body[data-lang=azerbaijani] .main__spinner-img {
-    background: url(../img/wheel-az.png) 50%/contain no-repeat
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/wheel-az.png) 50%/contain no-repeat
 }
 
 body[data-lang=azerbaijani] .main__achievements-spin .lights-content__value {
@@ -1191,7 +1191,7 @@ body[data-lang=uzbek] .main__titles .title_second {
 }
 
 body[data-lang=uzbek] .main__spinner-img {
-    background: url(../img/wheel-uz.png) 50%/contain no-repeat
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/wheel-uz.png) 50%/contain no-repeat
 }
 
 body[data-lang=uzbek] .main__achievements-spin .lights-content__value {
@@ -1268,7 +1268,7 @@ body[data-lang=kazakh] .main__titles .title_second {
 }
 
 body[data-lang=kazakh] .main__spinner-img {
-    background: url(../img/wheel-kz.png) 50%/contain no-repeat
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/wheel-kz.png) 50%/contain no-repeat
 }
 
 body[data-lang=kazakh] .main__achievements-spin .lights-content__value {
@@ -1345,7 +1345,7 @@ body[data-lang=russian] .main__titles .title_second {
 }
 
 body[data-lang=russian] .main__spinner-img {
-    background: url(../img/wheel-kz-ru.png) 50%/contain no-repeat
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/wheel-kz-ru.png) 50%/contain no-repeat
 }
 
 body[data-lang=russian] .main__achievements-spin .lights-content__value {
@@ -1447,7 +1447,7 @@ body[data-lang=indian] .main__titles .title_second {
 }
 
 body[data-lang=indian] .main__spinner-img {
-    background: url(../img/wheel-in-en.png) 50%/contain no-repeat
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/wheel-in-en.png) 50%/contain no-repeat
 }
 
 body[data-lang=indian] .main__achievements-spin .lights-content__value {
@@ -1556,7 +1556,7 @@ body[data-lang=hindi] .main__titles .title_second {
 }
 
 body[data-lang=hindi] .main__spinner-img {
-    background: url(../img/wheel-in.png) 50%/contain no-repeat
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/wheel-in.png) 50%/contain no-repeat
 }
 
 body[data-lang=hindi] .main__achievements-spin .lights-content__value {
@@ -1658,7 +1658,7 @@ body[data-lang=bangladesh] .main__titles .title_second {
 }
 
 body[data-lang=bangladesh] .main__spinner-img {
-    background: url(../img/wheel-bd.png) 50%/contain no-repeat
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/wheel-bd.png) 50%/contain no-repeat
 }
 
 body[data-lang=bangladesh] .main__achievements-spin .lights-content__value {
@@ -4807,7 +4807,7 @@ body[data-lang=bangladesh] .main__achievements-spin .lights-content__value {
 .header__dropdown-arrow {
     width: 14px;
     height: 8px;
-    background: url(../img/arrow.svg) no-repeat 50%/contain;
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/arrow.svg) no-repeat 50%/contain;
     margin: 0 0 0 14px
 }
 
@@ -4945,7 +4945,7 @@ body[data-lang=bangladesh] .main__achievements-spin .lights-content__value {
     position: relative;
     width: 535px;
     height: 535px;
-    background: url(../img/wheel-holder.png) 50% 0 no-repeat;
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/wheel-holder.png) 50% 0 no-repeat;
     background-size: 100%;
     box-sizing: content-box;
     border-radius: 50%
@@ -4992,7 +4992,7 @@ body[data-lang=bangladesh] .main__achievements-spin .lights-content__value {
 
 .main__wheel-layout:before {
     content: "";
-    background: url(../img/wheel-shadow.png) 50% 12% no-repeat;
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/wheel-shadow.png) 50% 12% no-repeat;
     background-size: contain;
     position: absolute;
     top: 50%;
@@ -5150,7 +5150,7 @@ body[data-lang=bangladesh] .main__achievements-spin .lights-content__value {
 }
 
 .main__achievements-bonus {
-    background: url(../img/bonus-background.png) 50%/cover no-repeat
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/bonus-background.png) 50%/cover no-repeat
 }
 
 .main__achievements-bonus .lights-content__value {
@@ -5170,7 +5170,7 @@ body[data-lang=bangladesh] .main__achievements-spin .lights-content__value {
 }
 
 .main__achievements-spin {
-    background: url(../img/bonus-background.png) 50%/cover no-repeat
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/bonus-background.png) 50%/cover no-repeat
 }
 
 .main__titles {
@@ -5261,7 +5261,7 @@ body[data-lang=bangladesh] .main__achievements-spin .lights-content__value {
 }
 
 .main__spinner-center {
-    background: url(../img/wheel-center.png) 50%/100% no-repeat;
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/wheel-center.png) 50%/100% no-repeat;
     width: 23%;
     height: 23%;
     position: absolute;
@@ -5452,7 +5452,7 @@ body[data-lang=bangladesh] .main__achievements-spin .lights-content__value {
 }
 
 .modal__wrapper {
-    background: url(../img/modal-bg.png) no-repeat;
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/modal-bg.png) no-repeat;
     background-size: cover;
     max-width: 430px;
     font-family: Roboto,sans-serif;
@@ -5465,7 +5465,7 @@ body[data-lang=bangladesh] .main__achievements-spin .lights-content__value {
 
 @media screen and (max-width: 479.9px) {
     .modal__wrapper {
-        background:url(../img/modal-bg-mob.png) no-repeat;
+        background:url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/modal-bg-mob.png) no-repeat;
         background-size: 100% 100%;
         padding: 33px 24px 30px;
         max-width: 336px
@@ -5765,11 +5765,11 @@ body[data-lang=bangladesh] .main__achievements-spin .lights-content__value {
 }
 
 .email-form__view-icon_close {
-    background: url(../img/view-close.svg) no-repeat 50%
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/view-close.svg) no-repeat 50%
 }
 
 .email-form__view-icon_open {
-    background: url(../img/view.svg) no-repeat 50%
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/view.svg) no-repeat 50%
 }
 
 .phone-form__header {
@@ -5825,7 +5825,7 @@ body[data-lang=bangladesh] .main__achievements-spin .lights-content__value {
     top: 0;
     height: 100%;
     width: 32px;
-    background: url(../img/down-arrow.svg) no-repeat 50%;
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/down-arrow.svg) no-repeat 50%;
     background-size: 9px;
     border-left: 1px
 }
@@ -5960,7 +5960,7 @@ body[data-lang=bangladesh] .main__achievements-spin .lights-content__value {
     border: none;
     border-bottom: 1px solid #fff;
     color: #fff;
-    background: url(../img/down-arrow.svg) no-repeat 52px 50%;
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/down-arrow.svg) no-repeat 52px 50%;
     background-size: 9px;
     border-radius: 0;
     cursor: text;
@@ -6124,7 +6124,7 @@ body[data-lang=bangladesh] .main__achievements-spin .lights-content__value {
 
 .checkbox__label-icon {
     display: none;
-    background: url(../img/checkbox.svg) no-repeat 50%;
+    background: url(https://raw.githubusercontent.com/dealdz/koryspi/main/uploads/checkbox.svg) no-repeat 50%;
     background-size: 16px;
     position: absolute;
     top: 0;
